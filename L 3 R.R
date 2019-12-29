@@ -1,4 +1,4 @@
-# Chaper 5 Lab: Cross-Validation and the Bootstrap
+# Cross-Validation and the Bootstrap
 
 #-------The Validation Set Approach-------#
 
