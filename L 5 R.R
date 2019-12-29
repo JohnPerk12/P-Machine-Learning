@@ -1,4 +1,4 @@
-# Chapter 7 Lab: Non-linear Modeling
+# Non-linear Modeling
 
 library(ISLR)
 attach(Wage)
