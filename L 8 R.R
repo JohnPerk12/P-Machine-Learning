@@ -1,4 +1,4 @@
-# Chapter 9 Lab: Support Vector Machines
+# Support Vector Machines
 
 # Support Vector Classifier
 
