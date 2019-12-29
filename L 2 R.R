@@ -1,4 +1,4 @@
-# Chapter 3 Lab: Linear Regression
+#Linear Regression
 
 library(MASS)
 library(ISLR)
