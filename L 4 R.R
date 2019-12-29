@@ -1,6 +1,6 @@
 rm(list=ls())
 
-# Chapter 6 Lab 1: Subset Selection Methods
+# Subset Selection Methods
 
 #-------Best Subset Selection-------#
 
