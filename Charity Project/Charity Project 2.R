@@ -1,7 +1,5 @@
 rm(list=ls())
 
-## Final Project
-
 ### LOAD DATA
 charity <- read.csv(file.choose())
 
